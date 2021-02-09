@@ -1,0 +1,12 @@
+.up{
+	z-index: 100;
+	display:none;
+	padding:1rem;
+	background-color: transparent !important;
+	font-size:3.2rem;
+	color:#024959 !important;
+	cursor:pointer;
+	position: fixed;
+	bottom:10px;
+	right:10px;
+}
