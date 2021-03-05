@@ -24,7 +24,44 @@
         </div>
       <!-- ----------------- conteiner ----------------- --->
         <div class="w-100 d-flex flex-wrap m-auto justify-content-center aling-items-center">
-        <!-- Reseña del Primer Foro de Opinión del Consejo Consultivo en torno a la Propuesta de la Política Estatal Anticorrupción del Estado de Yucatán. -->
+          <!-- Reseña Presentación de la “Agenda colaborativa (gobierno-sociedad) para lograr un mejor combate a la corrupción”.
+-->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-25-02-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-resena-25-02-2021-01.jpg" alt="">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña Presentación de la “Agenda colaborativa (gobierno-sociedad) para lograr un mejor combate a la corrupción</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">25 de Febrero de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                  El jueves 25 de febrero del presente año, en punto de las 18:00 hrs. en modalidad virtual vía ZOOM, se llevó a cabo la presentación de la: “Agenda colaborativa (gobierno-sociedad) para lograr un mejor combate a la corrupción”...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-25-02-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña del Primer Foro de Opinión del Consejo Consultivo en torno a la Propuesta de la Política Estatal Anticorrupción del Estado de Yucatán. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-22-02-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-resena-22-02-2021.jpg" alt="">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña Conferencia Ética Profesional</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">22 de Febrero de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                  Este lunes 22 de febrero de 2021, en punto de las 13:00 horas vía ZOOM, se llevó a cabo la conferencia titulada “La ética en el ejercicio profesional” impartida por el Mtro...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-22-02-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña del Primer Foro de Opinión del Consejo Consultivo en torno a la Propuesta de la Política Estatal Anticorrupción del Estado de Yucatán. -->
           <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
             <div class="w-100 border-shadow p-3">
               <div class="w-100">

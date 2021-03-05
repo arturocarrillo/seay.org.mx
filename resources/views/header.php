@@ -59,6 +59,8 @@
           Nuestro Trabajo
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://seay.org.mx/cursos-main.php">Curso Compliance</a>
+          <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="https://seay.org.mx/publication-main.php">Publicaciones</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="https://seay.org.mx/recommendation-main.php">Recomendaciones</a>

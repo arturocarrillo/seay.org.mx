@@ -19,8 +19,10 @@
                     </ul>
                 </nav>
             </div>
-            <!-- Semana Anticorrupcion 09 12 2020-->
+            <!-- Semana Anticorrupcion 09 12 2020 -->
             <?php include ('./gallery-content/g-sa-09-12-2020.php');?>
+            <!-- Instalación del Comité Estudiantil Anticorrupción UPP -->
+            <?php include ('./gallery-content/g-upp-seay-26-11-2020.php');?>
             <!-- Reunión entre la Secretaría de la Contraloría General e integrantes de CPC 04 03 2020-->
             <?php include ('./gallery-content/g-fc-18-08-2020.php');?>
             <!-- Reunión entre la Secretaría de la Contraloría General e integrantes de CPC 04 03 2020-->

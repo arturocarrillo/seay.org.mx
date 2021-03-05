@@ -58,6 +58,15 @@
   color: #0A7174;
 }
 
+.btn-link-green-s1 {
+  background-color: #0A7174;
+  color: #fff;
+}
+.btn-link-green-s1:hover, .btn-link-green-s1:focus, .btn-link-green-s1:active {
+  background-color: #013e41;
+  color: #ffffff;
+}
+
 .dropdown-submenu{
     position: relative;
 }
@@ -134,4 +143,40 @@
 }
 .btn--beta:hover, .btn--beta:focus, .btn--beta:active {
   color: #fff;
+}
+
+.btn-youtube{
+  background-color: #C0392B !important;
+  transition: all 0.3s linear;
+}
+.btn-youtube:hover{
+  background-color: #771a10 !important;
+}
+.btn-facebook{
+  background-color: #2874A6 !important;
+  transition: all 0.3s linear;
+}
+.btn-facebook:hover{
+  background-color: #03436d !important;
+}
+.btn-mail{
+  background-color: #27AE60 !important;
+  transition: all 0.3s linear;
+}
+.btn-mail:hover{
+  background-color: #057032 !important;
+}
+.btn-white{
+  background-color: #fff;
+  border: 2px solid #fff;
+  color: #000;
+  transition: all 0.3s linear;
+}
+.btn-white:hover{
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+.br-t-b{
+  border:2px 0px 2px 0px solid #707070;
 }

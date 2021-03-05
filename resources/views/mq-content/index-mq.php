@@ -120,7 +120,7 @@
 				</div>
 				<div class="w-100 d-flex justify-content-center flex-wrap m-auto">
 					<div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12 d-flex flex-wrap justify-content-center align-items-center p-4">
-						<p class="d-flex w-100 text-green-s1 font-weight-normla text-sm">Tus datos personales están seguros, ya que el de dichos datos se realiza con fundamentos en los artículos 17, 23 y 28 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; artículos 12, 26 y 29 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán.Todas las actuaciones que se generen con motivo del mecanismo de queja ante la Comisión Ejecutiva son gratuitas.
+						<p class="d-flex w-100 text-green-s1 font-weight-normal text-sm">Tus datos personales están seguros, ya que el de dichos datos se realiza con fundamentos en los artículos 17, 23 y 28 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; artículos 12, 26 y 29 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán.Todas las actuaciones que se generen con motivo del mecanismo de queja ante la Comisión Ejecutiva son gratuitas.
 						</p>
 					</div>
 					<div class="col-xl-2 col-lg-2 col-md-5 col-sm-5 col-xs-5 justify-content-center align-items-center p-4 d-none d-xs-none d-md-flex">
@@ -307,26 +307,9 @@
 							          <span aria-hidden="true">&times;</span>
 							        </button>
 							      </div>
-							      <div class="modal-body">
-							        <p class="w-90 text-md text-green-s1 font-weight-light p-2">
-							        	Fundamentos para el tratamiento de datos personales:
-                                      EL tratamiento de sus datos personales se realiza con fundamentos en los artículos  <span style="color:#007bff;text-decoration: underline;">  17, 23 y 28 </span> de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; artículos <span style="color:#007bff;text-decoration: underline;"> 12, 26 y 29 </span> de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Yucatán.
-                                      Se podrán transferir sus datos personales, a las diferentes áreas que integran este la Secretaría, esto, con el fin que realicen la búsqueda de la información requerida, y otorgar respuesta y/o información al solicitante, y en su caso, para la sustanciación de algún recurso de revisión.
-                                      <br>
-                                      ¿Cómo manifestar su negativa al tratamiento de datos personales?
-                                      Puede Manifestar su negativa a que sus datos personales sean tratados para alguna de las finalidades anteriores, desde este momento comunicándolo al correo electrónico<span style="color:#007bff;"> seseay@transperenciayucatan.org.mx</span> o puede presentarse en nuestras oficinas.
-                                      <br>
-                                      ¿Dónde se pueden ejercer los derechos ARCO?
-                                      Usted Podrá ejercer sus derechos de acceso, rectificación, cancelación u oposición al tratamiento de sus datos personales, de conformidad con el artículo  <span style="color:#007bff;text-decoration: underline;">  16 párrafo segundo </span> de la Constitución Política de los Estados Unidos Mexicanos, así como del Título Tercero, Capítulos  <span style="color:#007bff;text-decoration: underline;">  I y II </span> de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
-                                      Para ejercer esos derechos podrá acudir ante la Unidad de Transparencia de esta Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Yucatán, ubicada en la avenida Alemán, número 51, colonia Felipe Carrillo Puerto, Código Postal 97208, Mérida, Yucatán, México, o bien; a través de un escrito libre, formatos, medios electrónicos o cualquier otro medio que establezca el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, o bien, vía plataforma nacional.
-                                      Si desea conocer mayor información sobre el procedimiento para el ejercicio de estos derechos puede acudir a la Unidad de Transparencia de esta Secretaría, enviar un correo electrónico a la dirección antes señalada o comunicarse al teléfono  <span style="color:#007bff;">999 565 5620 ext.301</span>. 
-                                      <br>
-                                      Cambios en el aviso de privacidad   
-                                      En caso de que exista un cambio en este aviso de privacidad, lo haremos de su conocimiento a través de nuestro sitio web <span style="color:#007bff;">www.seay.org.mx</span>.
-                                      <br>
-                                      Última fecha de elaboración y/o actualización del aviso de privacidad 27 de mayo de 2019.
-                                  </p>
-							      </div>
+							     <div class="modal-body">
+									 <?php include('https://seay.org.mx/notice-privacy-content/AP-TQ.php');?>
+									 </div>
 							      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-3 mb-3">
 						               <div class="g-recaptcha w-100" data-sitekey="6LdB8LgUAAAAAGoYNXWFhTSi7WIFA7I9bMQxnPrX">
 						                </div>
@@ -339,6 +322,23 @@
 						</div>
 					</div>
 				</div>
+			</div>
+		</div>
+		<div class="w-100 d-flex justify-content-center flex-wrap p-4">
+			<div class="col-xl-10 col-lg-10 col-md-12 col-sm-10 col-xs-10">
+				 <div class="w-100 d-flex flex-wrap border-shadow">
+				 <div class="w-100 bg-green-s2 d-flex p-4">
+						<h2 class="text-md text-white m-auto">Otras formas de contactarnos</h2>
+				</div>
+				<div class="col-4 d-flex mt-3 p-3">
+					<img class="d-flex w-50 m-auto" src="https://seay.org.mx/public/frontend/img/charla.svg" alt="">
+				</div>
+				<div class="col-8 mx-auto mt-3 p-3">
+        	<p class="w-100 d-flex text-md text-green-s1 "><i class="fas fa-home mr-3"></i> Av. Alemán N° 51, Col. Felipe Carrillo Puerto C.P. 97208 </p>
+        	<p class="w-100 d-flex text-md text-green-s1 "><i class="fas fa-envelope mr-3"></i> queja@seay.org.mx</p>
+					<p class="w-100 d-flex text-md text-green-s1 "><i class="fab fa-whatsapp mr-3"></i> (999)5 65 56 20</p>
+      	</div>
+				 </div>
 			</div>
 		</div>
 	</div>

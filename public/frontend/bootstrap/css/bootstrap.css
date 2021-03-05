@@ -6689,7 +6689,9 @@ button.bg-dark:focus {
 .bg-m-s4{
   background-color: #AED6F1 !important;
 }
-
+.bg-paragraph{
+  background-color: #e4e4e4;
+}
 
 
 /*bg-green-s1*/
@@ -10032,7 +10034,7 @@ box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
 }
 /*-------------------------------------------------------- style text ------------------------------*/
 .text-sm{
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .text-md{
   font-size: 1.5rem;
