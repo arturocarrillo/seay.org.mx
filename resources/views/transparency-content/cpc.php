@@ -208,6 +208,16 @@
 				                        <th class="text-sm font-weight-normal text-green-s1" scope="row" style="text-align: left; ">&nbsp;Informe Julio-Septiembre 2020</th>
 				                        <td  style="text-align: center; vertical-align: middle;" ><a class="text-sm text-green-s1" target="_blank" href="http://www.seay.org.mx/public/download/pdf/cpc/Informe_Julio_Septiembre_2020.pdf" ><i class="fas fa-file-pdf"></i></a></td>
 				                    </tr>
+														<tr>
+				                        <th class="text-sm font-weight-normal text-green-s1" scope="row" style="text-align: left; " valign="top">38</th>
+				                        <th class="text-sm font-weight-normal text-green-s1" scope="row" style="text-align: left; ">&nbsp;Informe Octubre-Diciembre 2020</th>
+				                        <td  style="text-align: center; vertical-align: middle;" ><a class="text-sm text-green-s1" target="_blank" href="http://www.seay.org.mx/public/download/pdf/cpc/informe-octubre-diciembre-2020.pdf" ><i class="fas fa-file-pdf"></i></a></td>
+				                    </tr>
+															<tr>
+				                        <th class="text-sm font-weight-normal text-green-s1" scope="row" style="text-align: left; " valign="top">39</th>
+				                        <th class="text-sm font-weight-normal text-green-s1" scope="row" style="text-align: left; ">&nbsp;Informe Final 2020-2021</th>
+				                        <td  style="text-align: center; vertical-align: middle;" ><a class="text-sm text-green-s1" target="_blank" href="http://www.seay.org.mx/public/download/pdf/cpc/Informe-final-cpc-2020-2021.pdf" ><i class="fas fa-file-pdf"></i></a></td>
+				                    </tr>
 								</tbody>
 							</table>
 					      </div>

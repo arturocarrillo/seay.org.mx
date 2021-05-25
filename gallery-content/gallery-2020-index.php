@@ -19,6 +19,9 @@
                     </ul>
                 </nav>
             </div>
+            <?php include ('./gallery-content/g-26-03-2021.php');?>
+            <?php include ('./gallery-content/g-25-03-2021.php');?>
+            <?php include ('./gallery-content/g-24-03-2021.php');?>
             <!-- Presentacion de Plataforma INAIP-CPC-IEPAC -->
             <?php include ('./gallery-content/g-evento-22-03-2021.php');?>
             <!-- Impartición del módulo: “Ética y responsabilidad del servicio público” en la Fiscalía General del Estado de Yucatán. - 20 de Marzo del 2021 -->

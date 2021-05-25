@@ -15,7 +15,7 @@
   <!-- verified your ownership with google -->
   <meta name="google-site-verification" content="GlbZMatmm_8TK0bVts2nVIhDcP-gPbnH5xluJN47RzM">
   <title>INICIO</title>
-<!-- Open Graph -->
+  <!-- Open Graph -->
   <meta property="og:url" content="https://www.seay.org.mx/index.php">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Yucatán">
@@ -64,7 +64,7 @@
   <?php include ('./resources/views/mq.php');?>
   <?php include ('./resources/views/mq-video.php');?>
   <?php include ('./resources/views/books.php');?>
-  <?php include ('./resources/views/blog.php');?>
+  <?php include ('./resources/views/blog/blog.php');?>
   <?php include ('./resources/views/footer.php');?>
 </body>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
