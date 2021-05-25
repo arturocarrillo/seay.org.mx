@@ -24,6 +24,170 @@
         </div>
       <!-- ----------------- conteiner ----------------- --->
         <div class="w-100 d-flex flex-wrap m-auto justify-content-center aling-items-center">
+          <!-- Impartición del módulo: “Ética y responsabilidad del servicio público” en la Fiscalía General del Estado de Yucatán. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100"2href="https://www.seay.org.mx/news/news-20-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/gallery/2020/EVENTO-22-03-2021/evento-22-03-2021-08.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña de la presentación de la plataforma del Observatorio Electoral “ILEJ”, y la firma del Convenio General de Colaboración con Partidos Políticos de la entidad.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">22 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                    Este lunes 22 de marzo del presente año, a las 11:00 a.m., en las instalaciones del INAIP Yucatán, la Mtra. Mónica Febles Álvarez-Icaza, representando al Comité de Participación Ciudadana (CPC) del Sistema Estatal Anticorrupción de Yucatán (SEAY), en colaboración con la Mtra. Gilda Segovia Chab, Comisionada Presidente del Instituto Estatal de Transparencia...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-22-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Impartición del módulo: “Ética y responsabilidad del servicio público” en la Fiscalía General del Estado de Yucatán. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-20-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-20-03-2021-01.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Impartición del módulo: “Ética y responsabilidad del servicio público” en la Fiscalía General del Estado de Yucatán.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">20 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                    Aproximadamente a las 9:15 a.m., este sábado 20 de marzo de 2021, de manera presencial, contando con todos los protocolos oficiales de sana distancia, se llevó a cabo la impartición del módulo denominado: Ética y responsabilidad del servidor público”, como parte del “Curso especializado de formación de derechos humanos a fiscales del Estado de Yucatán”...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-20-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña de la reunión de trabajo del Consejo Consultivo Anticorrupción. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-17-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-17-03-2021-01.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña de la Rueda de prensa: Presentación del Observatorio Electoral ILEJ.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">17 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                    En punto de las 10:00 hrs., este miércoles 17 de marzo del presente año, en modalidad presencial, con todas las medidas preventivas y de sana distancia, además de un enlace virtual vía ZOOM, se llevó a cabo la rueda de prensa de la presentación del Observatorio Electoral ILEJ a los medios masivos de comunicación de nuestra entidad...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-17-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña de la reunión de trabajo del Consejo Consultivo Anticorrupción. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-16-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/16-03-2021-01.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña de la reunión de trabajo del Consejo Consultivo Anticorrupción.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">16 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                    Este martes 16 de marzo del presente año, en punto de las 17:00 hrs. en modalidad virtual vía ZOOM, se llevó a cabo la reunión de trabajo en la que estuvieron presentes integrantes del Consejo Consultivo Anticorrupción...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-16-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña de la conferencia: “Hablemos de corrupción” a la comunidad universitaria de la Universidad Privada de la Península. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-10-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-10-03-2021-01.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña de la conferencia: “Hablemos de corrupción” a la comunidad universitaria de la Universidad Privada de la Península.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">10 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                    En punto de las 11:00 hrs. vía Stream Yard, este miércoles 11 de marzo de 2021, y por invitación de la Universidad Privada de la Península, en el marco del Grow Up online 2021, se llevó a cabo la conferencia: “Hablemos de corrupción”, a cargo del Mtro. Luis Guillermo Juárez Ramírez, Jefe de Comunicación de la SESEAY...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-10-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña de la segunda sesión del curso: “Ética profesional y Responsabilidades Administrativas” a personal del DIF estatal. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-09-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-09-03-2021-01.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña de la segunda sesión del curso: “Ética profesional y Responsabilidades Administrativas” a personal del DIF estatal.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">09 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                   Este martes 09 de marzo de 2021, en punto de las 10:00 hrs. vía ZOOM y por invitación del DIF estatal, se llevó a cabo la segunda sesión del curso: “Ética profesional y Responsabilidades Administrativas” teniendo como título: “Responsabilidades Administrativas”...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-09-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña de la Primera Sesión del curso: “Ética Profesional y Responsabilidades Administrativas” a personal del DIF estatal. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-08-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/cover-08-03-2021-01.jpg" alt="SESEAY">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña de la Primera Sesión del curso: “Ética Profesional y Responsabilidades Administrativas” a personal del DIF estatal.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">08 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                   Este jueves 04 de marzo del 2021, en punto de las 18:00 horas, vía ZOOM se llevó a cabo la presentación del Observatorio Electoral “ILEJ” a los partidos políticos de nuestra entidad. Este es un esfuerzo conjunto entre el Instituto Estatal de Acceso a la Información Pública Yucatán (INAIP)...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-08-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña Presentación del Observatorio Electoral “ILEJ” a los partidos políticos del Estado. -->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-04-03-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/caratula-resena-04-03-01-2021.jpg" alt="">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">Reseña Presentación del Observatorio Electoral “ILEJ” a los partidos políticos del Estado.</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">04 de Marzo de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                   Este jueves 04 de marzo del 2021, en punto de las 18:00 horas, vía ZOOM se llevó a cabo la presentación del Observatorio Electoral “ILEJ” a los partidos políticos de nuestra entidad. Este es un esfuerzo conjunto entre el Instituto Estatal de Acceso a la Información Pública Yucatán (INAIP)...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-04-03-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
+          <!-- Reseña Presentación de la “Agenda colaborativa (gobierno-sociedad) para lograr un mejor combate a la corrupción”.
+-->
+          <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">
+            <div class="w-100 border-shadow p-3">
+              <div class="w-100">
+                <a class="flex w-100" href="https://www.seay.org.mx/news/news-26-02-2021.php">
+                  <img class="w-100 m-auto" src="https://www.seay.org.mx/public/frontend/img/comunicados/caratula-resena-26-02-01-2021.jpg" alt="">
+                </a>
+              </div>
+              <div class="w-100">
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">RESEÑA FIRMA DE CONVENIO DE COLABORACIÓN ENTRE EL INSTITUTO DE DESARROLLO REGIONAL Y MUNICIPAL (INDERM)  Y LA SESEAY</h2>
+                <h2 class="text-sm font-weight-bold text-green-s1 p-2">26 de Febrero de 2021</h2>
+                <p class="text-sm text-green-s1 font-weight-normal p-2">
+                  Este viernes 26 de febrero de 2021, de manera virtual, se llevó a cabo la firma del convenio de colaboración entre el Instituto de Desarrollo Regional y Municipal (INDERM) y la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Yucatán (SESEAY).
+...
+                </p>
+                <a class="text-blue-link m-auto p-2" href="https://www.seay.org.mx/news/news-26-02-2021.php">Leer completo <span class="icon-play3"></span></a>
+              </div>
+            </div>
+          </div>
           <!-- Reseña Presentación de la “Agenda colaborativa (gobierno-sociedad) para lograr un mejor combate a la corrupción”.
 -->
           <div class="col-xl-5 col-lg-5 col-md-10 col-sm-10 col-xs-10 m-auto d-flex flex-wrap p-4">

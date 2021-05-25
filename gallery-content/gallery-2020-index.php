@@ -19,6 +19,24 @@
                     </ul>
                 </nav>
             </div>
+            <!-- Presentacion de Plataforma INAIP-CPC-IEPAC -->
+            <?php include ('./gallery-content/g-evento-22-03-2021.php');?>
+            <!-- Impartición del módulo: “Ética y responsabilidad del servicio público” en la Fiscalía General del Estado de Yucatán. - 20 de Marzo del 2021 -->
+            <?php include ('./gallery-content/g-20-03-2021.php');?>
+            <!-- Rueda de prensa: Presentación del Observatorio Electoral ILEJ. - 17 de Marzo del 2021 -->
+            <?php include ('./gallery-content/g-17-03-2021.php');?>
+            <!-- Reunión de trabajo del Consejo Consultivo Anticorrupción - 16 de Marzo del 2021-->
+            <?php include ('./gallery-content/g-16-03-2021.php');?>
+            <!-- Conferencia: “Hablemos de corrupción” a la comunidad universitaria de la Universidad Privada de la Península. - 10 de Marzo del 2021 -->
+            <?php include ('./gallery-content/g-10-03-2021.php');?>
+            <!-- Segunda sesión del curso: “Ética profesional y Responsabilidades Administrativas” a personal del DIF estatal - 09 de Marzo del 2021 -->
+            <?php include ('./gallery-content/g-09-03-2021.php');?>
+            <!-- Primera Sesión del curso: “Ética Profesional y Responsabilidades Administrativas” a personal del DIF estatal - 08 de Marzo del 2021 -->
+            <?php include ('./gallery-content/g-08-03-2021.php');?>
+            <!-- Presentación del Observatorio Electoral “ILEJ” a los partidos políticos del Estado - 04 de Marzo del 2021 -->
+            <?php include ('./gallery-content/g-04-03-2021.php');?>
+            <!-- Firma de convenio IDERM -->
+            <?php include ('./gallery-content/g-iderm-26-02-2021.php');?>
             <!-- Semana Anticorrupcion 09 12 2020 -->
             <?php include ('./gallery-content/g-sa-09-12-2020.php');?>
             <!-- Instalación del Comité Estudiantil Anticorrupción UPP -->
